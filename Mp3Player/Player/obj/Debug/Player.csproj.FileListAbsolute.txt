@@ -1,0 +1,6 @@
+D:\Random\IP\Proiect\Mp3Player\Player\bin\Debug\Player.dll
+D:\Random\IP\Proiect\Mp3Player\Player\bin\Debug\Player.pdb
+D:\Random\IP\Proiect\Mp3Player\Player\obj\Debug\Player.csprojAssemblyReference.cache
+D:\Random\IP\Proiect\Mp3Player\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+D:\Random\IP\Proiect\Mp3Player\Player\obj\Debug\Player.dll
+D:\Random\IP\Proiect\Mp3Player\Player\obj\Debug\Player.pdb

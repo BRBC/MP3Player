@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mp3Player", "Mp3Player\Mp3Player.csproj", "{6D96ED4E-0C51-4636-8264-40187DA7707F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player", "Player\Player.csproj", "{DFD20A34-2BC9-4EAF-9E7E-034A27DE663A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{C07CC327-0FFA-4A89-B86C-C8253314D5A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D96ED4E-0C51-4636-8264-40187DA7707F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D96ED4E-0C51-4636-8264-40187DA7707F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D96ED4E-0C51-4636-8264-40187DA7707F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D96ED4E-0C51-4636-8264-40187DA7707F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFD20A34-2BC9-4EAF-9E7E-034A27DE663A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD20A34-2BC9-4EAF-9E7E-034A27DE663A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD20A34-2BC9-4EAF-9E7E-034A27DE663A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD20A34-2BC9-4EAF-9E7E-034A27DE663A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C07CC327-0FFA-4A89-B86C-C8253314D5A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07CC327-0FFA-4A89-B86C-C8253314D5A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07CC327-0FFA-4A89-B86C-C8253314D5A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07CC327-0FFA-4A89-B86C-C8253314D5A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {078E040D-5427-4EA6-ACED-503A9C53687F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,108 @@
+D:\Random\IP\Proiect\Mp3Player\Mp3Player\bin\Debug\Mp3Player.exe.config
+D:\Random\IP\Proiect\Mp3Player\Mp3Player\bin\Debug\Mp3Player.exe
+D:\Random\IP\Proiect\Mp3Player\Mp3Player\bin\Debug\Mp3Player.pdb
+D:\Random\IP\Proiect\Mp3Player\Mp3Player\bin\Debug\Player.dll
+D:\Random\IP\Proiect\Mp3Player\Mp3Player\bin\Debug\Player.pdb
+D:\Random\IP\Proiect\Mp3Player\Mp3Player\bin\Debug\Interop.WMPLib.dll
+D:\Random\IP\Proiect\Mp3Player\Mp3Player\bin\Debug\AxInterop.WMPLib.dll
+D:\Random\IP\Proiect\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csprojAssemblyReference.cache
+D:\Random\IP\Proiect\Mp3Player\Mp3Player\obj\Debug\Interop.WMPLib.dll
+D:\Random\IP\Proiect\Mp3Player\Mp3Player\obj\Debug\AxInterop.WMPLib.dll
+D:\Random\IP\Proiect\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.ResolveComReference.cache
+D:\Random\IP\Proiect\Mp3Player\Mp3Player\obj\Debug\Mp3Player.Form1.resources
+D:\Random\IP\Proiect\Mp3Player\Mp3Player\obj\Debug\Mp3Player.Properties.Resources.resources
+D:\Random\IP\Proiect\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.GenerateResource.cache
+D:\Random\IP\Proiect\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.CoreCompileInputs.cache
+D:\Random\IP\Proiect\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.CopyComplete
+D:\Random\IP\Proiect\Mp3Player\Mp3Player\obj\Debug\Mp3Player.exe
+D:\Random\IP\Proiect\Mp3Player\Mp3Player\obj\Debug\Mp3Player.pdb
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\bin\Debug\Mp3Player.exe.config
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\bin\Debug\Mp3Player.exe
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\bin\Debug\Mp3Player.pdb
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\bin\Debug\Player.dll
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\bin\Debug\Player.pdb
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csprojAssemblyReference.cache
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.ResolveComReference.cache
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\Mp3Player.Form1.resources
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\Mp3Player.Properties.Resources.resources
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.GenerateResource.cache
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.CoreCompileInputs.cache
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.CopyComplete
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\Mp3Player.exe
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\Mp3Player.pdb
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\Mp3Player\Mp3Player\bin\Debug\Mp3Player.exe.config
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\Mp3Player\Mp3Player\bin\Debug\Mp3Player.exe
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\Mp3Player\Mp3Player\bin\Debug\Mp3Player.pdb
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\Mp3Player\Mp3Player\bin\Debug\Player.dll
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\Mp3Player\Mp3Player\bin\Debug\Player.pdb
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\Mp3Player\Mp3Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\Mp3Player\Mp3Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csprojAssemblyReference.cache
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\Mp3Player\Mp3Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\Mp3Player\Mp3Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.ResolveComReference.cache
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\Mp3Player\Mp3Player\obj\Debug\Mp3Player.Form1.resources
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\Mp3Player\Mp3Player\obj\Debug\Mp3Player.Properties.Resources.resources
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.GenerateResource.cache
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.CoreCompileInputs.cache
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.CopyComplete
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\Mp3Player\Mp3Player\obj\Debug\Mp3Player.exe
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\Mp3Player\Mp3Player\obj\Debug\Mp3Player.pdb
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare3\Mp3Player\Mp3Player\bin\Debug\Mp3Player.exe.config
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare3\Mp3Player\Mp3Player\bin\Debug\Mp3Player.exe
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare3\Mp3Player\Mp3Player\bin\Debug\Mp3Player.pdb
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare3\Mp3Player\Mp3Player\bin\Debug\Player.dll
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare3\Mp3Player\Mp3Player\bin\Debug\Player.pdb
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare3\Mp3Player\Mp3Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare3\Mp3Player\Mp3Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare3\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csprojAssemblyReference.cache
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare3\Mp3Player\Mp3Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare3\Mp3Player\Mp3Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare3\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.ResolveComReference.cache
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare3\Mp3Player\Mp3Player\obj\Debug\Mp3Player.Form1.resources
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare3\Mp3Player\Mp3Player\obj\Debug\Mp3Player.Properties.Resources.resources
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare3\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.GenerateResource.cache
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare3\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.CoreCompileInputs.cache
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare3\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.CopyComplete
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare3\Mp3Player\Mp3Player\obj\Debug\Mp3Player.exe
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare3\Mp3Player\Mp3Player\obj\Debug\Mp3Player.pdb
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\ProiectIP\Mp3Player\Mp3Player\bin\Debug\Mp3Player.exe.config
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\ProiectIP\Mp3Player\Mp3Player\bin\Debug\Mp3Player.exe
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\ProiectIP\Mp3Player\Mp3Player\bin\Debug\Mp3Player.pdb
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\ProiectIP\Mp3Player\Mp3Player\bin\Debug\Player.dll
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\ProiectIP\Mp3Player\Mp3Player\bin\Debug\Player.pdb
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\ProiectIP\Mp3Player\Mp3Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\ProiectIP\Mp3Player\Mp3Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\ProiectIP\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csprojAssemblyReference.cache
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\ProiectIP\Mp3Player\Mp3Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\ProiectIP\Mp3Player\Mp3Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\ProiectIP\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.ResolveComReference.cache
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\ProiectIP\Mp3Player\Mp3Player\obj\Debug\Mp3Player.Form1.resources
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\ProiectIP\Mp3Player\Mp3Player\obj\Debug\Mp3Player.Properties.Resources.resources
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\ProiectIP\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.GenerateResource.cache
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\ProiectIP\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.CoreCompileInputs.cache
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\ProiectIP\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.CopyComplete
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\ProiectIP\Mp3Player\Mp3Player\obj\Debug\Mp3Player.exe
+C:\Users\Stefan cel Mare\Desktop\Facultate\Anul 3\Sem2\IP\Proiect\Incercare2\ProiectIP\Mp3Player\Mp3Player\obj\Debug\Mp3Player.pdb
+C:\Disc D\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\bin\Debug\Mp3Player.exe.config
+C:\Disc D\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\bin\Debug\Mp3Player.exe
+C:\Disc D\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\bin\Debug\Mp3Player.pdb
+C:\Disc D\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\bin\Debug\Player.dll
+C:\Disc D\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\bin\Debug\Player.pdb
+C:\Disc D\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\bin\Debug\Interop.WMPLib.dll
+C:\Disc D\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Disc D\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csprojAssemblyReference.cache
+C:\Disc D\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\Interop.WMPLib.dll
+C:\Disc D\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Disc D\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.ResolveComReference.cache
+C:\Disc D\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\Mp3Player.Form1.resources
+C:\Disc D\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\Mp3Player.Properties.Resources.resources
+C:\Disc D\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.GenerateResource.cache
+C:\Disc D\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.CoreCompileInputs.cache
+C:\Disc D\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.CopyComplete
+C:\Disc D\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\Mp3Player.exe
+C:\Disc D\Anul 3\Sem2\IP\Proiect\Mp3Player\Mp3Player\Mp3Player\obj\Debug\Mp3Player.pdb
